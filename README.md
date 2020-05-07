@@ -1,4 +1,4 @@
-### Segmentify Wine
+# Segmentify Wine
 
 A wine list slider. Run the following lines to run the project.
 
