@@ -1,6 +1,9 @@
+
 # Segmentify Wine
 
 A wine list slider. Run the following lines to run the project.
+
+# Getting Started
 
 ### `npm install`
 
